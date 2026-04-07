@@ -2,7 +2,7 @@
 import random
 
 # List of words for the game
-words = ["hangman", "python", "game", "programming", "openai", "claude"]
+words = ["hangman", "python", "game", "programming", "openai", "claude", "anthropic"]
 
 # Hangman graphics
 hangman_graphics = [
